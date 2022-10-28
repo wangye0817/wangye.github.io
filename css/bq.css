@@ -1,0 +1,23 @@
+.bq{
+			color:#666;
+			width: 100%;
+			height: 50px;
+			line-height: 50px;
+			/*background: #A9A9A9;*/
+			text-align: center;
+			margin: 0 auto;
+			background-color:#d3d7d4;
+		}
+		.bq span{
+			font-size: 13px;
+			margin: 0 5px;
+		}
+		.bq a{
+			text-decoration: none;
+		}
+		.bq a:link{
+				color:#666;
+			}
+		.bq a:visited{
+				color:#666;
+			}
